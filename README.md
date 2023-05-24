@@ -16,7 +16,7 @@ Define the path to your dataset. It can be a `txt` file or a folder with `txt` f
 Pass it to the `get_window_coefficient()` function.
 
 ```
-from phonetic_diversity import get_coefficient
+from phonetic_diversity import get_window_coefficient
 
 data_path = r"C:\natasha_dataset\marks.txt"
 res = get_window_coefficient(data_path)
@@ -37,7 +37,7 @@ You can also get a coefficient of phonetic diversity and balance for the full te
 by using `get_full_coefficient()` function.
 
 ```
-from phonetic_diversity import get_coefficient
+from phonetic_diversity import get_full_coefficient
 
 data_path = r"C:\natasha_dataset\marks.txt"
 res = get_full_coefficient(data_path)
