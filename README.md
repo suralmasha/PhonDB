@@ -8,7 +8,7 @@ This metric has been implemented in several experiments with training TTS models
 # Installation
 
 ```
-pip install git+https://github.com/suralmasha/PhDB
+pip install git+https://github.com/suralmasha/PhonDB
 ```
 
 # Usage
