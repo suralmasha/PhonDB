@@ -1,7 +1,9 @@
-# Phonetic Diversity Metric
+# Phonetic Diversity and Balance Metric
 This is metric of phonetic diversity and balance of textual data. 
 It is supposed to be used while preparation or selection of training data for voice AI models. 
 However other purposes are possible.
+
+This metric has been implemented in several experiments with training TTS models on datasets with different phonetic composition. See examples of synthesis here: https://drive.google.com/drive/folders/1SnftUeiO1FOPIUo8s-MziaEkaL5fQbA9?usp=share_link.
 
 # Installation
 
