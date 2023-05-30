@@ -32,7 +32,7 @@ if __name__ == "__main__":
         # version='0.1.0',
         description='A metric of phonetic diversity and balance of textual data.',
         long_description=readme(),
-        url='https://github.com/suralmasha/PhDB',
+        url='https://github.com/suralmasha/PhonDB',
         classifiers=[
             'Natural Language :: Russian',
             'Programming Language :: Python :: 3.8',
